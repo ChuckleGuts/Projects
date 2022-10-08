@@ -1,2 +1,2 @@
 # Projects
-Placeholder
+**Placeholder**
